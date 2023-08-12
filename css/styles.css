@@ -7849,6 +7849,10 @@ textarea.form-control-lg {
   text-align: right !important;
 }
 
+.cv-place {
+  float: right !important;
+}
+
 .text-center {
   text-align: center !important;
 }
