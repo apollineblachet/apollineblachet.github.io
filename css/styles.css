@@ -7877,7 +7877,7 @@ textarea.form-control-lg {
   text-transform: capitalize !important;
 }
 .text-smallcap {
-  font-variant: small-caps;
+  font-variant: small-caps !important;
 }
 
 .text-wrap {
