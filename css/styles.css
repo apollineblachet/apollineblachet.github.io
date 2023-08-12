@@ -7876,9 +7876,6 @@ textarea.form-control-lg {
 .text-capitalize {
   text-transform: capitalize !important;
 }
-.text-smallcap {
-  font-variant: small-caps !important;
-}
 
 .text-wrap {
   white-space: normal !important;
@@ -7943,6 +7940,11 @@ textarea.form-control-lg {
 .text-white {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+}
+
+text-smallcap {
+  --bs-text-opacity: 1;
+  font-variant: small-caps !important;
 }
 
 .text-body {
