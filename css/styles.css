@@ -7853,6 +7853,10 @@ textarea.form-control-lg {
   float: right !important;
 }
 
+.flex-shrink-0 {
+  flex-shrink: 0 !important;
+}
+
 .text-center {
   text-align: center !important;
 }
