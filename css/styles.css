@@ -7944,6 +7944,7 @@ textarea.form-control-lg {
 
 text-smallcap {
   --bs-text-opacity: 1;
+  color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
   font-variant: small-caps !important;
 }
 
