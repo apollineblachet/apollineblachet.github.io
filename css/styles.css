@@ -7876,6 +7876,9 @@ textarea.form-control-lg {
 .text-capitalize {
   text-transform: capitalize !important;
 }
+.text-smallcap {
+  font-variant: small-caps;
+}
 
 .text-wrap {
   white-space: normal !important;
