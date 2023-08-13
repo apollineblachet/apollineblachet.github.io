@@ -4200,7 +4200,7 @@ textarea.form-control-lg {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
-  background-color: #ffc0cb;
+  background-color: transparent;
   border: 1px solid transparent;
   border-radius: 0.25rem;
   transition: box-shadow 0.15s ease-in-out;
@@ -4321,7 +4321,7 @@ textarea.form-control-lg {
     z-index: 1000;
     flex-grow: 1;
     visibility: visible !important;
-    background-color: transparent;
+    background-color: #ffc0cb;
     border-right: 0;
     border-left: 0;
     transition: none;
