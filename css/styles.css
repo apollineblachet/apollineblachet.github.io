@@ -7829,6 +7829,10 @@ textarea.form-control-lg {
   font-weight: bolder !important;
 }
 
+.lh-05 {
+  line-height: 0.5 !important;
+}
+
 .lh-1 {
   line-height: 1 !important;
 }
