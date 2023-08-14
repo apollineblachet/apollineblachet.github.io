@@ -11653,15 +11653,15 @@ body {
     border-left: 0.5rem solid #64a19d;
   }
 }
-.education-section .project-text {
+.education-section .education-text {
   padding: 3rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {
-  .education-section .project-text {
+  .education-section .education-text {
     padding: 5rem;
   }
-  .education-section .project-text hr {
+  .education-section .education-text hr {
     border-color: #64a19d;
     border-width: 0.25rem;
     width: 30%;
@@ -11680,15 +11680,15 @@ body {
     border-left: 0.5rem solid #64a19d;
   }
 }
-.experiences-section .project-text {
+.experiences-section .experiences-text {
   padding: 3rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {
-  .experiences-section .project-text {
+  .experiences-section .experiences-text {
     padding: 5rem;
   }
-  .experiences-section .project-text hr {
+  .experiences-section .experiences-text hr {
     border-color: #64a19d;
     border-width: 0.25rem;
     width: 30%;
@@ -11707,15 +11707,15 @@ body {
     border-left: 0.5rem solid #64a19d;
   }
 }
-.skills-section .project-text {
+.skills-section .skills-text {
   padding: 3rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {
-  .skills-section .project-text {
+  .skills-section .skills-text {
     padding: 5rem;
   }
-  .skills-section .project-text hr {
+  .skills-section .skills-text hr {
     border-color: #64a19d;
     border-width: 0.25rem;
     width: 30%;
