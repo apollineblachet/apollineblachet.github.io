@@ -11833,24 +11833,3 @@ body {
   bottom: 0;
   z-index: -1;
 }
-
-.wrapper {
-  position: relative;
-  width: 100%;
-}
-
-.wrapper::after {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  content: '';
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%);
-}
-
-.progress-bar-striped {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%);
-  background-size: 1rem 1rem;
-  z-index: 0;
-}
