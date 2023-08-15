@@ -11642,7 +11642,10 @@ body {
 }
 
 .education-section {
-  padding: 10rem 0;
+  padding-top: 10rem;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
 }
 .education-section .featured-text {
   padding: 2rem;
@@ -11669,7 +11672,10 @@ body {
 }
 
 .experiences-section {
-  padding: 0 0;
+  padding-top: 10rem;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
 }
 .experiences-section .featured-text {
   padding: 2rem;
@@ -11696,7 +11702,10 @@ body {
 }
 
 .skills-section {
-  padding: 10rem 0;
+  padding-top: 10rem;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
 }
 .skills-section .featured-text {
   padding: 2rem;
@@ -11723,7 +11732,10 @@ body {
 }
 
 .projects-section {
-  padding: 0 0;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  padding-left: 0;
+  padding-right: 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
