@@ -11643,7 +11643,7 @@ body {
 
 .education-section {
   padding-top: 10rem;
-  padding-bottom: 5rem;
+  padding-bottom: 1rem;
   padding-left: 0;
   padding-right: 0;
 }
@@ -11672,8 +11672,8 @@ body {
 }
 
 .experiences-section {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 9rem;
+  padding-bottom: 1rem;
   padding-left: 0;
   padding-right: 0;
 }
@@ -11702,8 +11702,8 @@ body {
 }
 
 .skills-section {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 9rem;
+  padding-bottom: 1rem;
   padding-left: 0;
   padding-right: 0;
 }
@@ -11732,7 +11732,7 @@ body {
 }
 
 .projects-section {
-  padding-top: 5rem;
+  padding-top: 9rem;
   padding-bottom: 10rem;
   padding-left: 0;
   padding-right: 0;
