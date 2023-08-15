@@ -11669,7 +11669,7 @@ body {
 }
 
 .experiences-section {
-  padding: 1rem 0;
+  padding: 0 0;
 }
 .experiences-section .featured-text {
   padding: 2rem;
@@ -11696,7 +11696,7 @@ body {
 }
 
 .skills-section {
-  padding: 1rem 0;
+  padding: 10rem 0;
 }
 .skills-section .featured-text {
   padding: 2rem;
