@@ -672,7 +672,7 @@ progress {
 
 .container-columns {
   column-count: 2;
-  column-gap: 3rem;
+  column-gap: 5rem;
 }
  
 .row {
