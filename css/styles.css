@@ -638,8 +638,8 @@ progress {
 .container-md,
 .container-sm {
   width: 100%;
-  padding-right: var(--bs-gutter-x, 0.75rem);
-  padding-left: var(--bs-gutter-x, 0.75rem);
+  padding-right: var(--bs-gutter-x, 3rem);
+  padding-left: var(--bs-gutter-x, 3rem);
   margin-right: auto;
   margin-left: auto;
 }
@@ -11644,8 +11644,8 @@ body {
 .education-section {
   padding-top: 10rem;
   padding-bottom: 1rem;
-  padding-left: 10rem;
-  padding-right: 10rem;
+  padding-left: 0;
+  padding-right: 0;
 }
 .education-section .featured-text {
   padding: 2rem;
